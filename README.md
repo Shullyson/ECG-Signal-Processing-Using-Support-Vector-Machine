@@ -1,0 +1,4 @@
+Dataset here : https://www.dropbox.com/scl/fo/dqpdrghsw5nex1mwf1bqq/h?rlkey=f9l5ju3ku7knvw4qt9a27q04i&dl=0
+
+
+This research introduces an innovative approach to arrhythmia classification by employing a 1-D to 2-D conversion method, transforming input signals into interconvertible images. The proposed method involves straightforward mathematical processing to generate images from 1D electrocardiogram (ECG) data. The classification accuracy of the implemented 2D Convolutional Neural Network (CNN) and Support Vector Machine (SVM) classifiers in categorizing different arrhythmia types based on the derived 1D ECG images demonstrated high performance. Specifically, the accuracies achieved were approximately 97.77% for the 2D CNN and 97.24% for the SVM classifier, showcasing the effectiveness of the suggested methodology.
